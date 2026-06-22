@@ -1,6 +1,4 @@
-# STSA
-
-**Structured Tone-Space Augmentation for Extremely Low-Resource Machine Translation of Tone-Marked Languages**
+# **Structured Tone-Space Augmentation for Extremely Low-Resource Machine Translation of Tone-Marked Languages**
 
 ## Code Availability
 
